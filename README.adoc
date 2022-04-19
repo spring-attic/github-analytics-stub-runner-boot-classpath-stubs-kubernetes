@@ -1,3 +1,5 @@
+# github-analytics-stub-runner-boot-classpath-stubs-kubernetes is no longer actively maintained by VMware, Inc.
+
 # GitHub Analytics Stub Runner Boot
 
 Spring Cloud Contract Stub Runner Boot used for tests with Github Analytics / Github Webook for the deployment pipeline. Registers stubs in Eureka.
